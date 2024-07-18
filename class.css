@@ -1,0 +1,14 @@
+#heading1{
+    text-decoration: line-through;
+    color: rgb(33, 3, 90);
+}
+img{
+    border-top: black 2px solid;
+    border-left: green 3px dotted;
+    border-bottom: blue 4px dashed;
+    border-right: purple 5px solid;
+    border-radius: 50%;
+    padding: 10px;
+    margin: 200px;
+
+}

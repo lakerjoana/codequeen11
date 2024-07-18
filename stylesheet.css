@@ -1,0 +1,28 @@
+cup{
+    background-color: aqua;
+    color: purple;
+
+}
+center{
+    display: block;
+    margin-bottom: auto;
+    margin-right:auto;
+    width: 50%;
+
+}
+body{
+    background: peachpuff;
+    color:blue;
+    text-align: left;
+    font-size:20px;
+    font-weight: lighter;
+    margin-top: 5px;
+}
+img{
+    display:block;
+    margin-left: center;
+    margin-right: auto;
+    width: 20%;
+    border-radius:10%;
+
+}

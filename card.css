@@ -1,0 +1,37 @@
+
+.mother{
+    width: 400px;
+    height: 570px;
+    background-color: aquamarine;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 5%;
+}
+.photo{
+    height: 250px; 
+    border-bottom: 1px gray solid;  
+    
+}
+.content{
+    height: 250px;
+    
+
+}
+.photo>img{
+    padding: 10px 0px 20px;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+h1,h3,p{
+    font-size:15px ;
+    padding-left: 20px;
+    padding-top: 15px;
+
+}
+.logo>img{
+    height: 50px;
+    margin-left: 20px;
+}
